@@ -14,7 +14,7 @@ Alternatively, the dependencies can be installed manually using ```environment.y
 
 
 ## Experiments
-The experiments contain in the file [test_proposed.py](https://github.com/Fsoft-AIC/RPM-BO/blob/master/lasso_exp.py)
+The experiments contain in the file [test_proposed.py](https://github.com/Fsoft-AIC/BO-transfer-search-space/blob/main/test_proposed.py)
 
 #### Example: Running Scenario 1 with Ackley function
 
