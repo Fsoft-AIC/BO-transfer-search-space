@@ -1,7 +1,7 @@
 # Designing Search Spaces for Unbounded Bayesian Optimization via Transfer Learning (ECML PKDD 2025)
 
 ## Installation
-The easiest way to install the required dependencies is to use Anaconda on Window (code was tested on Windows 11). In this directory, run
+The easiest way to install the required dependencies is to use Anaconda on Windows (code was tested on Windows 11). In this directory, run
 ```
 conda env create -f environment.yaml
 ```
